@@ -1,4 +1,5 @@
 # Lazy Multiplication
+[![Open in molab](https://marimo.io/molab-shield.svg)](https://molab.marimo.io/github/DMUPraveen/Lazy_Matrix_Multiplication/blob/main/lazy_multiplication.py)
 
 This is a repo dedicated to exploring the following Meme!
 
@@ -18,4 +19,4 @@ If you are running it locally you can run it with (you need to have [uv installe
  uv run --with marimo marimo edit .\lazy_multiplication\
 ```
 
-Alternatively you can run with mo-lab.
+Alternatively you can run with mo-lab. [![Open in molab](https://marimo.io/molab-shield.svg)](https://molab.marimo.io/github/DMUPraveen/Lazy_Matrix_Multiplication/blob/main/lazy_multiplication.py)
